@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:18.15
 ENV XDG_CONFIG_HOME /github/workspace
 ENV WRANGLER_HOME /github/workspace
 
